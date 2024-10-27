@@ -108,35 +108,35 @@
 - [ex07: ft_advanced_sort_string_tab](./C11/ex07) - Sort Strings with Custom Criteria
 
 ### C12 - Linked Lists
-- [ex00: `ft_create_elem`](./C12/ex00) - Create a New Element *(Difficulty: 6)*
-- [ex01: `ft_list_push_front`](./C12/ex01) - Add an Element to the Front of the List *(Difficulty: 7)*
-- [ex02: `ft_list_size`](./C12/ex02) - Get the Size of the List *(Difficulty: 8)*
-- [ex03: `ft_list_last`](./C12/ex03) - Get the Last Element of the List *(Difficulty: 9)*
-- [ex04: `ft_list_push_back`](./C12/ex04) - Add an Element to the End of the List *(Difficulty: 10)*
-- [ex05: `ft_list_push_strs`](./C12/ex05) - Add an Array of Strings to the List *(Difficulty: 11)*
-- [ex06: `ft_list_clear`](./C12/ex06) - Clear the List *(Difficulty: 12)*
-- [ex07: `ft_list_at`](./C12/ex07) - Get an Element at a Specific Index *(Difficulty: 13)*
-- [ex08: `ft_list_reverse`](./C12/ex08) - Reverse the List *(Difficulty: 14)*
-- [ex09: `ft_list_foreach`](./C12/ex09) - Apply a Function to Each Element in the List *(Difficulty: 15)*
-- [ex10: `ft_list_foreach_if`](./C12/ex10) - Apply a Function to Elements Satisfying a Condition *(Difficulty: 16)*
-- [ex11: `ft_list_find`](./C12/ex11) - Find an Element in the List *(Difficulty: 17)*
-- [ex12: `ft_list_remove_if`](./C12/ex12) - Remove Elements Satisfying a Condition *(Difficulty: 18)*
-- [ex13: `ft_list_merge`](./C12/ex13) - Merge Two Lists *(Difficulty: 19)*
-- [ex14: `ft_list_sort`](./C12/ex14) - Sort the List *(Difficulty: 20)*
-- [ex15: `ft_list_reverse_fun`](./C12/ex15) - Reverse the List Using a Function *(Difficulty: 21)*
-- [ex16: `ft_sorted_list_insert`](./C12/ex16) - Insert an Element in Sorted Order *(Difficulty: 22)*
-- [ex17: `ft_sorted_list_merge`](./C12/ex17) - Merge Two Sorted Lists *(Difficulty: 23)*
+- [ex00: ft_create_elem](./C12/ex00) - Create a New Element *(Difficulty: 6)*
+- [ex01: ft_list_push_front](./C12/ex01) - Add an Element to the Front of the List *(Difficulty: 7)*
+- [ex02: ft_list_size](./C12/ex02) - Get the Size of the List *(Difficulty: 8)*
+- [ex03: ft_list_last](./C12/ex03) - Get the Last Element of the List *(Difficulty: 9)*
+- [ex04: ft_list_push_back](./C12/ex04) - Add an Element to the End of the List *(Difficulty: 10)*
+- [ex05: ft_list_push_strs](./C12/ex05) - Add an Array of Strings to the List *(Difficulty: 11)*
+- [ex06: ft_list_clear](./C12/ex06) - Clear the List *(Difficulty: 12)*
+- [ex07: ft_list_at](./C12/ex07) - Get an Element at a Specific Index *(Difficulty: 13)*
+- [ex08: ft_list_reverse](./C12/ex08) - Reverse the List *(Difficulty: 14)*
+- [ex09: ft_list_foreach](./C12/ex09) - Apply a Function to Each Element in the List *(Difficulty: 15)*
+- [ex10: ft_list_foreach_if](./C12/ex10) - Apply a Function to Elements Satisfying a Condition *(Difficulty: 16)*
+- [ex11: ft_list_find](./C12/ex11) - Find an Element in the List *(Difficulty: 17)*
+- [ex12: ft_list_remove_if](./C12/ex12) - Remove Elements Satisfying a Condition *(Difficulty: 18)*
+- [ex13: ft_list_merge](./C12/ex13) - Merge Two Lists *(Difficulty: 19)*
+- [ex14: ft_list_sort](./C12/ex14) - Sort the List *(Difficulty: 20)*
+- [ex15: ft_list_reverse_fun](./C12/ex15) - Reverse the List Using a Function *(Difficulty: 21)*
+- [ex16: ft_sorted_list_insert](./C12/ex16) - Insert an Element in Sorted Order *(Difficulty: 22)*
+- [ex17: ft_sorted_list_merge](./C12/ex17) - Merge Two Sorted Lists *(Difficulty: 23)*
 
 
 ### C013 BTREE - Binary Trees
-- [ex00: `btree_create_node`](./C13/ex00) - Create a New Binary Tree Node
-- [ex01: `btree_apply_prefix`](./C13/ex01) - Apply a Function in Prefix Order
-- [ex02: `btree_apply_infix`](./C13/ex02) - Apply a Function in Infix Order
-- [ex03: `btree_apply_suffix`](./C13/ex03) - Apply a Function in Suffix Order
-- [ex04: `btree_insert_data`](./C13/ex04) - Insert Data into the Binary Tree
-- [ex05: `btree_search_item`](./C13/ex05) - Search for an Item in the Binary Tree
-- [ex06: `btree_level_count`](./C13/ex06) - Count the Levels in the Binary Tree
-- [ex07: `btree_apply_by_level`](./C13/ex07) - Apply a Function by Level
+- [ex00: btree_create_node](./C13/ex00) - Create a New Binary Tree Node
+- [ex01: btree_apply_prefix](./C13/ex01) - Apply a Function in Prefix Order
+- [ex02: btree_apply_infix](./C13/ex02) - Apply a Function in Infix Order
+- [ex03: btree_apply_suffix](./C13/ex03) - Apply a Function in Suffix Order
+- [ex04: btree_insert_data](./C13/ex04) - Insert Data into the Binary Tree
+- [ex05: btree_search_item](./C13/ex05) - Search for an Item in the Binary Tree
+- [ex06: btree_level_count](./C13/ex06) - Count the Levels in the Binary Tree
+- [ex07: btree_apply_by_level](./C13/ex07) - Apply a Function by Level
 
 Utilise External Tools and Resources:
 
